@@ -1,12 +1,1 @@
-# newProject
-# Ethereum-Price-Prediction
-# Ethaneum
-# Bitcoin-Mining-Yea-Boy
-# Translator
-# Translator
-# OPENAItest
-# OPENAItest
-# OPENAItest
-# Billionaires-of-2021
-# Billionaires-of-2021
-# Billionaires-of-2021
+
